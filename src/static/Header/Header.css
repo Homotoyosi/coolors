@@ -1,0 +1,28 @@
+.HeaderContainer{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgray;
+    align-items: center;
+}
+.logo{
+    padding: 0px 20px;
+}
+.navs{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-right: 0px;
+    padding: 0px 10px;
+button{
+    width: 85px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+}
+.nav2{
+    color: red;
+}

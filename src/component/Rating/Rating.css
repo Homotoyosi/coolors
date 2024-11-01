@@ -1,0 +1,68 @@
+.ratingcontent{
+    margin-top: 120px;
+h2{
+    margin-left: 30%;
+    font-weight: lighter;
+}
+}
+.ratingimg{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    align-items: center;
+    margin-top: 30px;
+}
+#disney {
+    width: 70px;
+    height: 70px;
+}
+#dreamwork {
+    width: 60px;
+    height: 60px; 
+}
+#warnerbros {
+    width: 80px;
+    height: 80px;
+}
+#netflix{
+    width: 60px;
+    height: 60px;
+}
+#airbnb {
+    width: 60px;
+    height: 60px;
+}
+#dropbox {
+    width: 90px;
+    height: 60px;
+}
+#hasbro {
+    width: 100px;
+    height: 100px;
+}
+#ubisoft {
+    width: 80px;
+    height: 80px;
+}
+#EA {
+    width: 100px;
+    height: 120px;
+}
+.ratingimg2{
+    display: flex;
+    gap: 60px;
+    margin-left: 42%;
+    align-items: center;
+    margin-top: 10px;
+}
+#apple {
+    width: 45px;
+    height: auto;
+}
+#microsoft {
+    width: 60px;
+    height: auto;
+}
+
